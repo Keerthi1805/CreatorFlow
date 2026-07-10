@@ -1,8 +1,14 @@
 node_modules
 .next
 .env
+<<<<<<< HEAD
 .DS_Store
 npm-debug.log*
 .vercel
 *.tsbuildinfo
 next-env.d.ts
+=======
+.env.local
+.env*.local
+*.log
+>>>>>>> 9dca5754c172818eac7977fb64229e6667216458
