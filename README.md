@@ -419,8 +419,3 @@ Replace `16` with your actual PostgreSQL version.
 | `NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL` | ✅ | `/onboarding` |
 | `NEXT_PUBLIC_APP_URL` | ✅ | `http://localhost:3000` |
 
----
-
-## License
-
-Private project. All rights reserved.
